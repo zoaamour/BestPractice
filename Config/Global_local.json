@@ -1,0 +1,11 @@
+{
+    "TwinDataRoot": "D:\\datas\\plib_data\\TwinMarketData\\data\\ifind_market",
+    "PostUpdate": "D:\\datas\\plib_data\\Twin\\plib\\PostUpdate\\Data",
+    "NasDownload": "D:\\datas\\plib_data\\FTP-Share\\Q-Research\\Data\\TwinAlpha-download",
+    "QFund_Data": "D:\\datas\\plib_data\\FTP-Share\\Q-Research\\Data\\TwinAlpha-Holding_Evaluate",
+    "trade_order": "D:\\datas\\plib_data\\FTP-Share\\Q-Research\\trade_order",
+    "NasReport": "D:\\datas\\plib_data\\FTP-Share\\Q-Research\\Report",
+    "NasFunds": "D:\\datas\\plib_data\\FTP-Share\\Funds",
+    "csvdata": "D:\\datas\\plib_data\\FTP-Share\\TwinMarketData\\csvdata",
+    "WeeklyData": "D:\\datas\\plib_data\\FTP-Share\\Q-Research\\Data\\Weekly_Data"
+}

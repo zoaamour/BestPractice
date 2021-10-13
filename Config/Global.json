@@ -1,0 +1,13 @@
+{
+    "TwinDataRoot": "\\\\192.168.0.104\\TwinMarketData\\data\\ifind_market",
+    "TwinDataRootTemp": "\\\\192.168.0.104\\TwinMarketData\\data\\ifind_market_tmp",
+    "PostUpdate": "\\\\192.168.0.104\\Twin\\plib\\PostUpdate\\Data",
+    "FtpRoot": "\\\\192.168.0.119\\FTP-Share\\Report\\HotIndustryScore",
+    "NasDownload": "\\\\192.168.0.100\\FTP-Share\\Q-Research\\Data\\TwinAlpha-download",
+    "QFund_Data": "\\\\192.168.0.100\\FTP-Share\\Q-Research\\Data\\TwinAlpha-Holding_Evaluate",
+    "trade_order": "\\\\192.168.0.100\\FTP-Share\\Q-Research\\trade_order",
+    "NasReport": "\\\\192.168.0.100\\FTP-Share\\Q-Research\\Report",
+    "NasFunds": "\\\\192.168.0.100\\FTP-Share\\Funds",
+    "csvdata": "\\\\192.168.0.100\\FTP-Share\\TwinMarketData\\csvdata",
+    "WeeklyData": "\\\\192.168.0.100\\FTP-Share\\Q-Research\\Data\\Weekly_Data"
+}

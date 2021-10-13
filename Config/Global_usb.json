@@ -1,0 +1,9 @@
+{
+    "TwinDataRoot": "E:\\plib_data\\TwinMarketData\\data\\ifind_market",
+    "PostUpdate": "E:\\plib_data\\Twin\\plib\\PostUpdate\\Data",
+    "NasDownload": "E:\\plib_data\\FTP-Share\\Q-Research\\Data\\TwinAlpha-download",
+    "QFund_Data": "E:\\plib_data\\FTP-Share\\Q-Research\\Data\\TwinAlpha-Holding_Evaluate",
+    "QFund_trade_order": "E:\\plib_data\\FTP-Share\\Q-Research\\trade_order_Qdept",
+    "QFund_data_103": "E:\\plib_data\\TwinAlpha\\mlib\\Qdept_Fund\\data",
+    "Holding_Evaluate_103": "E:\\plib_data\\TwinAlpha\\mlib\\Holding_Evaluate\\data"
+}
