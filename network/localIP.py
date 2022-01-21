@@ -16,7 +16,7 @@ def get_host_ip():
 
 
 def main():
-	# print(f"您当前的主机名为: {IPaddr()}")
+	print(f"您当前的主机名为: {socket.gethostname()}")
 	print(f'当前IP为： {get_host_ip()}')
 	print('\n')
 
